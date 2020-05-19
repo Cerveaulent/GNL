@@ -16,3 +16,5 @@ The function returns 3 differents values :
 GNL ***allocates memory***, make sure you free it when needed.
 
 [GNL Main page](https://github.com/Cerveaulent/GNL)
+
+[42 Lyon School Projects](https://github.com/Cerveaulent/42_Lyon_School_Projects/blob/master/README.md)
